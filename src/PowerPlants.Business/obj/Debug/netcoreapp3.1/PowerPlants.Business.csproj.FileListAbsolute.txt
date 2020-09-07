@@ -1,0 +1,9 @@
+C:\Dev\PowerPlants\src\PowerPlants.Business\bin\Debug\netcoreapp3.1\PowerPlants.Business.deps.json
+C:\Dev\PowerPlants\src\PowerPlants.Business\bin\Debug\netcoreapp3.1\PowerPlants.Business.dll
+C:\Dev\PowerPlants\src\PowerPlants.Business\obj\Debug\netcoreapp3.1\PowerPlants.Business.csprojAssemblyReference.cache
+C:\Dev\PowerPlants\src\PowerPlants.Business\obj\Debug\netcoreapp3.1\PowerPlants.Business.AssemblyInfoInputs.cache
+C:\Dev\PowerPlants\src\PowerPlants.Business\obj\Debug\netcoreapp3.1\PowerPlants.Business.AssemblyInfo.cs
+C:\Dev\PowerPlants\src\PowerPlants.Business\bin\Debug\netcoreapp3.1\PowerPlants.Business.pdb
+C:\Dev\PowerPlants\src\PowerPlants.Business\obj\Debug\netcoreapp3.1\PowerPlants.Business.dll
+C:\Dev\PowerPlants\src\PowerPlants.Business\obj\Debug\netcoreapp3.1\PowerPlants.Business.pdb
+C:\Dev\PowerPlants\src\PowerPlants.Business\obj\Debug\netcoreapp3.1\PowerPlants.Business.csproj.CoreCompileInputs.cache

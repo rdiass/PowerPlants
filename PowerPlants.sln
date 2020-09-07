@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30204.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PowerPlants.Business", "src\PowerPlants.Business\PowerPlants.Business.csproj", "{B072E0C6-2830-4EF1-94F3-7627C8256256}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PowerPlants.Api", "src\PowerPlants.Api\PowerPlants.Api.csproj", "{A175E366-2501-4778-BB4B-858680D5C00A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B072E0C6-2830-4EF1-94F3-7627C8256256}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B072E0C6-2830-4EF1-94F3-7627C8256256}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B072E0C6-2830-4EF1-94F3-7627C8256256}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B072E0C6-2830-4EF1-94F3-7627C8256256}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A175E366-2501-4778-BB4B-858680D5C00A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A175E366-2501-4778-BB4B-858680D5C00A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A175E366-2501-4778-BB4B-858680D5C00A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A175E366-2501-4778-BB4B-858680D5C00A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B7404608-DEF5-4950-888C-5DFA001D627C}
+	EndGlobalSection
+EndGlobal
