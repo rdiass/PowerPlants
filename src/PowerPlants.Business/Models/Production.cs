@@ -8,6 +8,5 @@
         public double TotalPrice { get; set; }
 
         public double MinEnergy { get; set; }
-        public string PowerPlantType { get; set; }
     }
 }

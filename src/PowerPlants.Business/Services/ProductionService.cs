@@ -91,8 +91,7 @@ namespace PowerPlants.Business.Services
                     PricePerUnit = priceForOneUnit,
                     MinEnergy = powerPlant.Pmin,
                     TotalEnergy = totalEnergy,
-                    TotalPrice = totalPrice,
-                    PowerPlantType = powerPlant.Type
+                    TotalPrice = totalPrice
                 });
             }
 
